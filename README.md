@@ -1,4 +1,6 @@
-# Scrum Master 
+# Scrum Master
+
+### Technical Skilss: SQL, Tableau, Excel, Power BI
 ### Education
 Business Analytics, Bachelor 
 
