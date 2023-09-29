@@ -3,11 +3,15 @@
 Business Analytics, Bachelor 
 
 ### Work Experience 
-Lead Scrum Master @ KOUBRAH 
+**Lead Scrum Master @ KOUBRAH
+-
+-
 
-Suppor analyst @ UBER
+**Suppor analyst @ UBER
+-
+-
 
-Business Analyst Intern @ HIBBETT, INC 
+**Business Analyst Intern @ HIBBETT, INC 
 - big impact project 1!
 - Big impact project 2!
 - Big impact Project 3!
