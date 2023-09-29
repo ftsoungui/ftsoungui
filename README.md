@@ -16,6 +16,7 @@ Business Analyst Intern @ HIBBETT, INC
 
 
 ### Contact Information
++1 863-514-0514
 
 <!---
 ftsoungui/ftsoungui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
