@@ -1,10 +1,13 @@
 # Scrum Master
 
 ### Technical Skilss: SQL, Tableau, Excel, Power BI
-### Education
-Business Analytics, Bachelor 
 
-### Work Experience 
+## Education
+- B.S., Business Analytic | The University of South Florida at Tampa
+- B.A., International Studies | The university of South Florida at Tampa
+- A.S., Computer Science | State college of Florida at Bradenton
+
+## Work Experience 
 **Lead Scrum Master @ KOUBRAH
 -
 -
