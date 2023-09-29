@@ -8,7 +8,7 @@
 - A.S., Computer Science | State college of Florida at Bradenton
 
 ## Work Experience 
-**Lead Scrum Master @ KOUBRAH
+*Lead Scrum Master @ KOUBRAH
 -
 -
 
