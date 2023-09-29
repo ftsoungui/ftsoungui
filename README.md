@@ -8,7 +8,7 @@
 - A.S., Computer Science | State college of Florida at Bradenton
 
 ## Work Experience 
-   Lead Scrum Master @ KOUBRAH
+**Lead Scrum Master @ KOUBRAH**
 -
 -
 
@@ -16,7 +16,7 @@
 -
 -
 
-**Business Analyst Intern @ HIBBETT, INC 
+**Business Analyst Intern @ HIBBETT, INC** 
 - big impact project 1!
 - Big impact project 2!
 - Big impact Project 3!
