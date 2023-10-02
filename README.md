@@ -10,16 +10,18 @@
 ## Work Experience 
 **Lead Scrum Master @ KOUBRAH**
 - Lead requirements workshops/analysis, validation, and verification, ensuring that requirements are complete, consistent, and concise.
-- Assited the product owner on building a product roadmap, and linking stories to realises.
+- used metrics to create reports and tract teams progress, which resulted to increasing productivity and delivering quality value.
+- Developed comprehensive executive-level dashboards that provided essentials agile information to program leadership.
 
 **Suppor analyst @ UBER**
--
--
+- Synthesized research data to align with marketing plan of product releases resulting in 170% of lunch goals.
+- Develop models to support insights that enable decision-making and drive business results.
+- Used appropriate analysis and evaluation methods to accurately identify and documents process flows and improvements. 
 
 **Business Analyst Intern @ HIBBETT, INC** 
-- big impact project 1!
-- Big impact project 2!
-- Big impact Project 3!
+- Assisted in the development of data-driven projects, including project planning, execution, and communication of results.
+- Applied judgment in delivering business solutions that helped the company close over 50 stored and helped save $25M.
+
 
 ### project 
 
