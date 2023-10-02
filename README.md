@@ -9,8 +9,8 @@
 
 ## Work Experience 
 **Lead Scrum Master @ KOUBRAH**
--
--
+- Lead requirements workshops/analysis, validation, and verification, ensuring that requirements are complete, consistent, and concise.
+- Assited the product owner on building a product roadmap, and linking stories to realises.
 
 **Suppor analyst @ UBER**
 -
