@@ -20,7 +20,7 @@
 
 **Business Analyst Intern @ HIBBETT, INC** 
 - Assisted in the development of data-driven projects, including project planning, execution, and communication of results.
-- Applied judgment in delivering business solutions that helped the company close over 50 stored and helped save $25M.
+- Applied judgment in delivering business solutions that helped the company close over 50 stored and helped save $25M. 
 
 
 ### project 
