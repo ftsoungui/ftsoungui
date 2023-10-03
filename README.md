@@ -25,9 +25,9 @@
 
 ### project 1
 Developed objective strategies using agile maturity assesment techniques to improve agile processes, which helped increasing performance. 
-[Sample-AgileMaturityAssessment-3.xls](https://github.com/ftsoungui/ftsoungui/files/12796641/Sample-AgileMaturityAssessment-3.xls)
 
-[Capacity planning .xlsx](https://github.com/ftsoungui/ftsoungui/files/12794585/Capacity.planning.xlsx)
+
+
 
 ![alt text](image.jpg)
 
