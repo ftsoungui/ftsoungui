@@ -25,7 +25,7 @@
 
 ### project 1
 
-![EEG_Band_Discovery] (/assets/img/eeg_banddiscovery.jpeg)
+![EEG_Band_Discovery] (/assets/img/eeg_banddiscovery.jpeg) 
 
 
 ### Contact Information
