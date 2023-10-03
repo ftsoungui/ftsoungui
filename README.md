@@ -25,6 +25,9 @@
 
 ### project 1
 
+
+[Capacity planning .xlsx](https://github.com/ftsoungui/ftsoungui/files/12794585/Capacity.planning.xlsx)
+
 ![alt text](image.jpg)
 
 
