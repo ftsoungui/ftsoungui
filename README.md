@@ -24,12 +24,14 @@
 
 
 ### project 1
-Developed objective strategies using agile maturity assesment techniques to improve agile processes, which helped increasing performance. 
+Developed objective strategies using agile maturity assesment techniques to improve agile processes, which helped increasing performance, and velocity. 
 
 [AgileMaturityAssessment-3.xls](https://github.com/ftsoungui/ftsoungui/files/12796648/AgileMaturityAssessment-3.xls)
 
 
+Implemented a product vision roadmap in order to create a strategical plan for UAT and releases. 
 
+![PNG image](https://github.com/ftsoungui/ftsoungui/assets/139358019/8f729b93-edbd-4c90-bac3-f4e5d6e9e6bf)
 
 
 ### Contact Information
