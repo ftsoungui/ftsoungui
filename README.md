@@ -29,6 +29,10 @@ Developed objective strategies using agile maturity assesment techniques to impr
 [AgileMaturityAssessment-3.xls](https://github.com/ftsoungui/ftsoungui/files/12796648/AgileMaturityAssessment-3.xls)
 
 
+![PNG image copy](https://github.com/ftsoungui/ftsoungui/assets/139358019/72d6810d-49f7-44c6-97a0-1806650c0a20)
+
+
+
 Implemented a product vision roadmap in order to create a strategical plan for UAT and releases. 
 
 ![PNG image](https://github.com/ftsoungui/ftsoungui/assets/139358019/8f729b93-edbd-4c90-bac3-f4e5d6e9e6bf)
