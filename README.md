@@ -8,7 +8,7 @@
 - A.S., Computer Science | State college of Florida at Bradenton
 
 ## Work Experience 
-**Lead Scrum Master @ KOUBRAH**
+**Lead Scrum Master @ ENTREPRISE**
 - Lead requirements workshops/analysis, validation, and verification, ensuring that requirements are complete, consistent, and concise.
 - used metrics to create reports and tract teams progress, which resulted to increasing productivity and delivering quality value.
 - Developed comprehensive executive-level dashboards that provided essentials agile information to program leadership.
