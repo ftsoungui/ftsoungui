@@ -47,6 +47,9 @@ Developed objective strategies using agile maturity assesment techniques to impr
 Implemented a product vision roadmap in order to create a strategical plan for UAT and releases. 
 
 
+![Screen Shot 2023-10-05 at 6 40 45 PM](https://github.com/ftsoungui/ftsoungui/assets/139358019/d233b525-6562-47a6-ac1e-a7e85b4a63bb)
+
+
 
 Create reports and dashboards to track issues, workflow status.
 
