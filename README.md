@@ -48,6 +48,12 @@ Implemented a product vision roadmap in order to create a strategical plan for U
 
 
 
+Create reports and dashboards to track issues, workflow status.
+
+![Screen Shot 2023-10-05 at 6 19 37 PM](https://github.com/ftsoungui/ftsoungui/assets/139358019/e1b28064-ab17-4c58-bd41-fb4143a812a1)
+
+
+
 
 
 
