@@ -8,7 +8,7 @@
 - A.S., Computer Science | State college of Florida at Bradenton
 
 ## Work Experience 
-**Lead Scrum Master @ ENTREPRISE**
+**Lead Scrum Master @ Turo**
 - Lead requirements workshops/analysis, validation, and verification, ensuring that requirements are complete, consistent, and concise.
 - used metrics to create reports and tract teams progress, which resulted to increasing productivity and delivering quality value.
 - Developed comprehensive executive-level dashboards that provided essentials agile information to program leadership.
@@ -23,7 +23,15 @@
 - Applied judgment in delivering business solutions that helped the company close over 50 stored and helped save $25M. 
 
 
-### project 1
+### project 1 
+  **Car Rental**
+  
+Organized the product backlog  By creating user stories and linking them to features and versions.
+
+![Screen Shot 2023-10-05 at 5 27 13 PM](https://github.com/ftsoungui/ftsoungui/assets/139358019/c0ede11a-90f4-4b49-9542-d49f12e3e1d4)
+
+
+
 Developed objective strategies using agile maturity assesment techniques to improve agile processes, which helped increasing performance, and velocity. 
 
 [AgileMaturityAssessment-3.xls](https://github.com/ftsoungui/ftsoungui/files/12796648/AgileMaturityAssessment-3.xls)
@@ -38,7 +46,7 @@ Developed objective strategies using agile maturity assesment techniques to impr
 
 Implemented a product vision roadmap in order to create a strategical plan for UAT and releases. 
 
-![PNG image](https://github.com/ftsoungui/ftsoungui/assets/139358019/8f729b93-edbd-4c90-bac3-f4e5d6e9e6bf)
+
 
 
 
