@@ -24,7 +24,7 @@
 
 
 ### project 1 
-  **Car Rental**
+  **BB1**
   
 Organized the product backlog  By creating user stories and linking them to features and versions.
 
